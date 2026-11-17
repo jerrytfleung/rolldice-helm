@@ -3,6 +3,18 @@ entries:
   rolldice-helm:
   - apiVersion: v2
     appVersion: v1.0.0
+    created: "2026-11-17T16:21:00.591910318Z"
+    description: A Helm chart for Kubernetes
+    digest: 9915bfc73f47b130c7937924265ad291bfde830cc835f5223c16a41948a5a2f2
+    maintainers:
+    - name: jerrytfleung
+    name: rolldice-helm
+    type: application
+    urls:
+    - https://github.com/jerrytfleung/rolldice-helm/releases/download/rolldice-helm-0.1.2/rolldice-helm-0.1.2.tgz
+    version: 0.1.2
+  - apiVersion: v2
+    appVersion: v1.0.0
     created: "2026-11-17T02:31:04.473146086Z"
     description: A Helm chart for Kubernetes
     digest: b2fe07b23991b465f3bffe25bcd7dd0c65ea78a3261882d5c930bc9718588808
@@ -13,4 +25,4 @@ entries:
     urls:
     - https://github.com/jerrytfleung/rolldice-helm/releases/download/rolldice-helm-0.1.1/rolldice-helm-0.1.1.tgz
     version: 0.1.1
-generated: "2026-11-17T02:31:04.473151954Z"
+generated: "2026-11-17T16:21:00.591916641Z"
